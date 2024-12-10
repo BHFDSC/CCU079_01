@@ -1,8 +1,8 @@
-# Risk of long-term sequelae in secondary care following SARS-CoV-2 and general respiratory infections among school-aged children in England
+# Risk of new diagnoses in secondary care following SARS-CoV-2 and other respiratory infections among school-aged individuals in England.
 
 ## Project description
 
-The aim of this project is to investigate the association of a range of diagnoses with previous SARS-CoV-2 infection and with previous non-SARS-CoV-2 RTIs in children and young people, and understand differences by demographic and clinical characteristics.
+The aim of this project is to investigate the association of a range of diagnoses with previous SARS-CoV-2 infection and with previous non-SARS-CoV-2 RTIs in school-aged individuals, and understand differences by demographic and clinical characteristics.
 
 ## How to cite this work
 > Citation details to follow
