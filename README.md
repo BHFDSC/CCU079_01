@@ -32,7 +32,7 @@ The results of this study will help us know which diagnoses children and young p
 
 This is a sub-project of [project CCU079](https://github.com/BHFDSC/CCU079) approved by the CVD-COVID-UK / COVID-IMPACT Approvals & Oversight Board (sub-project: CCU079_01).
 
-# Funding 
+## Funding 
 This study is funded by the NIHR (Dr Katharine Looker, NIHR Advanced Fellowship [NIHR302934]). The views expressed are those of the author(s) and not necessarily those of the NIHR, NHS or the UK Department of Health and Social Care.
 
 ## License
